@@ -1,4 +1,4 @@
-# <a role="link" target="_blank" rel="noopener noreferrer" href="https://people-face-detect.herokuapp.com/">face-detection-app</a>  
+# <a role="link" target="_blank" rel="noopener noreferrer" href="https://people-face-detect.herokuapp.com/">Face Detection</a>  
 1. Register first (Then you can use your account to sign in next time.)   
 <img src="register.png">  
 
